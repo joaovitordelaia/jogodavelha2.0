@@ -1,0 +1,74 @@
+C:\temp\CTDS - 12\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\temp\CTDS - 12\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\temp\CTDS - 12\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\temp\CTDS - 12\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csprojAssemblyReference.cache
+C:\temp\CTDS - 12\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.Tela_Principal.resources
+C:\temp\CTDS - 12\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+C:\temp\CTDS - 12\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.cache
+C:\temp\CTDS - 12\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\temp\CTDS - 12\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+C:\temp\CTDS - 12\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.Cad_Palavra.resources
+D:\Atividade C#\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+D:\Atividade C#\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+D:\Atividade C#\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+D:\Atividade C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.AssemblyReference.cache
+D:\Atividade C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.Cad_Palavra.resources
+D:\Atividade C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.Tela_Principal.resources
+D:\Atividade C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+D:\Atividade C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.cache
+D:\Atividade C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.CoreCompileInputs.cache
+D:\Atividade C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+D:\Atividade C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+D:\Atividade C#\Jogo da Forca 24,03,2023\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+D:\Atividade C#\Jogo da Forca 24,03,2023\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+D:\Atividade C#\Jogo da Forca 24,03,2023\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+D:\Atividade C#\Jogo da Forca 24,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.AssemblyReference.cache
+D:\Atividade C#\Jogo da Forca 24,03,2023\Jogo da Forca\obj\Debug\Jogo_da_Forca.Cad_Palavra.resources
+D:\Atividade C#\Jogo da Forca 24,03,2023\Jogo da Forca\obj\Debug\Jogo_da_Forca.Tela_Principal.resources
+D:\Atividade C#\Jogo da Forca 24,03,2023\Jogo da Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+D:\Atividade C#\Jogo da Forca 24,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.cache
+D:\Atividade C#\Jogo da Forca 24,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.CoreCompileInputs.cache
+D:\Atividade C#\Jogo da Forca 24,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+D:\Atividade C#\Jogo da Forca 24,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+C:\temp\CTDS - 12\Jogo da Forca 25,03,2023\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\temp\CTDS - 12\Jogo da Forca 25,03,2023\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\temp\CTDS - 12\Jogo da Forca 25,03,2023\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\temp\CTDS - 12\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.csprojAssemblyReference.cache
+C:\temp\CTDS - 12\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo_da_Forca.Cad_Palavra.resources
+C:\temp\CTDS - 12\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo_da_Forca.Tela_Principal.resources
+C:\temp\CTDS - 12\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+C:\temp\CTDS - 12\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.cache
+C:\temp\CTDS - 12\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\temp\CTDS - 12\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+C:\Users\Aluno\Desktop\Jogo da Forca 25,03,2023\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\Users\Aluno\Desktop\Jogo da Forca 25,03,2023\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\Users\Aluno\Desktop\Jogo da Forca 25,03,2023\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\Users\Aluno\Desktop\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo_da_Forca.Cad_Palavra.resources
+C:\Users\Aluno\Desktop\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo_da_Forca.Tela_Principal.resources
+C:\Users\Aluno\Desktop\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\Users\Aluno\Desktop\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+D:\Atividade C#\Jogo da Forca 25,03,2023\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+D:\Atividade C#\Jogo da Forca 25,03,2023\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+D:\Atividade C#\Jogo da Forca 25,03,2023\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+D:\Atividade C#\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.AssemblyReference.cache
+D:\Atividade C#\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo_da_Forca.Cad_Palavra.resources
+D:\Atividade C#\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo_da_Forca.Tela_Principal.resources
+D:\Atividade C#\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+D:\Atividade C#\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.cache
+D:\Atividade C#\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.CoreCompileInputs.cache
+D:\Atividade C#\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+D:\Atividade C#\Jogo da Forca 25,03,2023\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+C:\Users\USUARIO\Desktop\Visual Studio\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\Users\USUARIO\Desktop\Visual Studio\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\Users\USUARIO\Desktop\Visual Studio\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\Users\USUARIO\Desktop\Visual Studio\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Visual Studio\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.Cad_Palavra.resources
+C:\Users\USUARIO\Desktop\Visual Studio\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.Tela_Principal.resources
+C:\Users\USUARIO\Desktop\Visual Studio\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Visual Studio\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Visual Studio\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Visual Studio\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\Users\USUARIO\Desktop\Visual Studio\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.pdb

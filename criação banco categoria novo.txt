@@ -1,0 +1,40 @@
+CREATE DATABASE db_Jogo_da_Velha
+ON PRIMARY
+(
+	NAME=db_Viacao_Paraiso,
+	FILENAME='C:\BD\db_Jogo_da_Velha.MDF',
+	SIZE=25MB,
+	MAXSIZE=50MB,
+	FILEGROWTH=10%
+)
+
+USE db_Jogo_da_Velha
+
+CREATE TABLE categoria
+(
+	id_categoria INT PRIMARY KEY IDENTITY (1,1),
+	nome_categoria VARCHAR(10)
+)
+CREATE TABLE palavra
+(
+	id_palavra int primary key identity(1,1),
+	nome_palavra varchar(15) not null,
+	dica varchar(30) not null,
+	id_categoria INT,
+	CONSTRAINT fk_categoria
+	FOREIGN KEY (id_categoria) REFERENCES categoria(id_categoria)
+)
+
+INSERT INTO categoria(nome_categoria)
+         VALUES ('Animais'), ('Cidade'), ('Times'),
+           ('Objetos'), ('Frutas'), ('Carros');
+
+INSERT INTO palavra(nome_palavra, dica, id_categoria)
+	values	('CACHORRO', 'Late', 1), ('GATO', 'Mia', 1),
+			('LINHARES', 'Espírito Santo', 2), ('SOORETAMA', 'Espírito Santo', 2),
+			('VASCO', 'Vai cair de novo!', 3), ('BOTAFOGO', 'Fire', 3),
+			('CELULAR', 'Ligações', 4), ('GARRAFA', 'Armazena bebidas', 4),
+			('LARANJA', 'Uma cor', 5), ('ABACAXI', 'Uma casa no fundo do mar!', 5),
+			('VOLKSWAGEN', 'Golf', 6), ('FIAT', 'Uno', 6)
+
+
